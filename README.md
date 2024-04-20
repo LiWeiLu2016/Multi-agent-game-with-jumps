@@ -25,7 +25,7 @@ Parameters：
 - `D`: Dimension.
 - `T`: Terminal time.
 - `M`: Number of trajectories.
-- `N`: Number of intervals $0=t_0<t_1<\cdots<t_N=T$.
+- `N`: Number of intervals.
 - `mu, r, sigma, p, lambda, z, a, b, q, nu, alpha, beta, delta, theta`: Parameters in exponential, power and logarithmic utilities.
 - `Xi`: Initial point.
 - `terminal`: Terminal points in the first iteration
