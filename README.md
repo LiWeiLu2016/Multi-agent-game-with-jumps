@@ -1,5 +1,5 @@
 # Multi-agent Game with Jumps
-This is the code for three numerical experiments in the paper "Multi-Agent Relative Investment Games in a Jump Diffusion Market with Deep Reinforcement Learning Algorithm". For more information, please refer to the [paper](). The code is written in PyTorch.
+This is the code for three numerical experiments in the paper "Multi-Agent Relative Investment Games in a Jump Diffusion Market with Deep Reinforcement Learning Algorithm". For more information, please refer to the [paper](https://arxiv.org/abs/2404.11967). The code is written in PyTorch.
 
 ![](./diagram/Stochastic%20Control.png)
 
